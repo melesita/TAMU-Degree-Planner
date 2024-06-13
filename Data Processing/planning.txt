@@ -1,0 +1,27 @@
+Process
+1) Student select department
+2) Student select major
+3) Go into major requirements
+4) Compile major requirements
+5) Get existing credits students has (ap/dc classes)
+6) Take into accout UCC
+7) Figure out off-semesters (if applicable)
+8) Find schedules available
+  a) Consider off-semester
+  b) Freshman year
+    i) Show all possible schedules (w/o credits taken)
+      -Everyone (regardless of credits) sees 4.0-3.75 GPA schedules
+       -If someone has credits
+        -Have a 4.0-3.75, 3.74-3.50, 3.49 & lower GPA
+      -Student picks freshman year schedule
+      ** If we have time, we do ratemyprof suggestions for freshman year classes
+  c) After
+    -Populate schedule using freshman credits, other credits, and degree track
+     -No suggestion of prof
+9) Output some sort of file to have for schedule
+
+
+
+- take into account ucc
+- rank ucc classes by easy?? -- give options
+
