@@ -46,3 +46,4 @@ For your degree plan, we recommend you take the following courses:
 For the Communication category, we recommend ENGL 203, 3 credit hours
 For the American History category, we recommend HIST 105, 4 credit hours
 ...
+```
