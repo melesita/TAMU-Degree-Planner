@@ -25,10 +25,6 @@ This project was created for TidalHack at Texas A&M University by a rookie team.
 3. **Receive Degree Plan:**
    The program will output a suggested degree plan based on your input.
 
-## OpenAI Implementation
-
-*Placeholder for how OpenAI environment will be integrated into the project.*
-
 ## Example Output
 
 ```plaintext
